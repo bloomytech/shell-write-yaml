@@ -1,0 +1,5 @@
+user1,workspace1,groupname1
+user2,workspace2,groupname2
+user3,workspace3,groupname3
+user4,workspace4,groupname4
+user5,workspace5,groupname5
